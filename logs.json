@@ -1,0 +1,154 @@
+{
+    "logs": [
+        {
+            "id": 1,
+            "count": 3,
+            "photos": {
+                "height": 1080,
+                "width": 1920,
+                "red_depth": 8,
+                "green_depth": 8,
+                "blue_depth": 8
+            },
+            "algorithm_used": "random",
+            "start_date": "2023-05-28 21:18:06.668844",
+            "end_date": "2023-05-28 21:18:15.781047",
+            "time used": "0:00:09.112203"
+        },
+        {
+            "id": 2,
+            "count": 10,
+            "photos": {
+                "height": 1080,
+                "width": 1920,
+                "red_depth": 8,
+                "green_depth": 8,
+                "blue_depth": 8
+            },
+            "algorithm_used": "random",
+            "start_date": "2023-05-28 21:19:04.031866",
+            "end_date": "2023-05-28 21:19:34.282314",
+            "time used": "0:00:30.250448"
+        },
+        {
+            "id": 3,
+            "count": 5,
+            "photos": {
+                "height": 720,
+                "width": 1280,
+                "red_depth": 16,
+                "green_depth": 16,
+                "blue_depth": 16
+            },
+            "algorithm_used": "random",
+            "start_date": "2023-05-28 21:20:59.783830",
+            "end_date": "2023-05-28 21:21:06.771783",
+            "time used": "0:00:06.987953"
+        },
+        {
+            "id": 4,
+            "count": 500,
+            "photos": {
+                "height": 480,
+                "width": 640,
+                "red_depth": 8,
+                "green_depth": 8,
+                "blue_depth": 8
+            },
+            "algorithm_used": "random",
+            "start_date": "2023-05-28 21:22:45.786180",
+            "end_date": "2023-05-28 21:26:38.203078",
+            "time used": "0:03:52.416898"
+        },
+        {
+            "id": 5,
+            "count": 5,
+            "photos": {
+                "height": 480,
+                "width": 640,
+                "red_depth": 8,
+                "green_depth": 8,
+                "blue_depth": 8
+            },
+            "algorithm_used": "random",
+            "start_date": "2023-05-28 21:28:50.289421",
+            "end_date": "2023-05-28 21:28:52.467190",
+            "time used": "0:00:02.177769"
+        },
+        {
+            "id": 6,
+            "count": 3,
+            "photos": {
+                "height": 480,
+                "width": 640,
+                "red_depth": 256,
+                "green_depth": 256,
+                "blue_depth": 256
+            },
+            "algorithm_used": "random",
+            "start_date": "2023-05-28 21:29:23.597872",
+            "end_date": "2023-05-28 21:29:27.691766",
+            "time used": "0:00:04.093894"
+        },
+        {
+            "id": 7,
+            "count": 3,
+            "photos": {
+                "height": 480,
+                "width": 640,
+                "red_depth": 256,
+                "green_depth": 256,
+                "blue_depth": 256
+            },
+            "algorithm_used": "random",
+            "start_date": "2023-05-28 21:30:25.180488",
+            "end_date": "2023-05-28 21:30:29.271274",
+            "time used": "0:00:04.090786"
+        },
+        {
+            "id": 8,
+            "count": 10,
+            "photos": {
+                "height": 720,
+                "width": 1280,
+                "red_depth": 256,
+                "green_depth": 256,
+                "blue_depth": 256
+            },
+            "algorithm_used": "random",
+            "start_date": "2023-05-28 21:31:27.436902",
+            "end_date": "2023-05-28 21:31:47.652223",
+            "time used": "0:00:20.215321"
+        },
+        {
+            "id": 9,
+            "count": 5,
+            "photos": {
+                "height": 720,
+                "width": 1280,
+                "red_depth": 256,
+                "green_depth": 256,
+                "blue_depth": 256
+            },
+            "algorithm_used": "random",
+            "start_date": "2023-05-28 21:45:33.492092",
+            "end_date": "2023-05-28 21:45:44.934961",
+            "time used": "0:00:11.442869"
+        },
+        {
+            "id": 10,
+            "count": 3,
+            "photos": {
+                "height": 128,
+                "width": 128,
+                "red_depth": 32,
+                "green_depth": 32,
+                "blue_depth": 32
+            },
+            "algorithm_used": "random",
+            "start_date": "2023-05-28 21:47:03.157764",
+            "end_date": "2023-05-28 21:47:03.240323",
+            "time used": "0:00:00.082559"
+        }
+    ]
+}
