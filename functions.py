@@ -19,8 +19,8 @@ def generate_flat_dictionary(width, height, colors):
     return flat_dictionary
 
 
-def generate_empty_2d_array(height):
+def generate_empty_2d_array(x):
     array = []
-    for h in range(height):
+    for h in range(x):
         array.append([])
     return array
