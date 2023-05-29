@@ -11,4 +11,3 @@ def random_algorithm(width, height, colors, count, gen_path, new_dir):
                 array[h].append(colors[random.randint(0, len(colors)-1)])
         utils.generate_image(f"{gen_path}/{new_dir}", i, array)
 
-
